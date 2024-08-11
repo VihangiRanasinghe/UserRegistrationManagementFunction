@@ -1,0 +1,43 @@
+/* signup */
+
+.main-body {
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url("res/sb.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    background-image: url("res/signuplogo.png");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title01 {
+    font-family: "little";
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #111010;
+}
+
+
+
+.background {
+    background-image: url("res/sbs.svg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title02 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+/* signup */
